@@ -26,6 +26,7 @@ nav img {
 
 .navbar a:link {
 	color: purple;
+	text-decoration: none;
 }
 .navbar a:hover {
 	font-weight: bold;
