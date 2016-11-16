@@ -1,0 +1,98 @@
+nav {
+  padding: 5px 20px;
+  background-color: lightgrey;
+  height: 50px;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  border: 1px solid black;
+  width: 100%;
+  font-family: 'Crete Round', serif;
+  font-size: 21px;
+}
+
+nav img {
+	height: 50px;
+	width: auto;
+}
+
+.navbar {
+	text-align: right;
+	position: relative;
+	margin-top: -40px;
+	margin-left: 10px;
+	padding-right: 45px;
+}
+
+.navbar a:link {
+	color: purple;
+}
+.navbar a:hover {
+	font-weight: bold;
+	color: green;
+}
+.navbar a:active {
+	font-size: 24px;
+	color: red;
+}
+
+body {
+	padding-left: 100px;
+	padding-top: 100px;
+}
+
+form {
+	padding-left: 50px;
+}
+
+input {
+	height: 30px;
+}
+
+.bar ul {
+	list-style: none;
+	font-family: 'Crete Round', serif;
+	font-size: 18px;
+	margin-right: 100px;
+}
+
+.bar li {
+	display: inline-block;
+	border: 1px solid black;
+	border-radius: 7.5px;
+	padding: 5px 30px;
+}
+
+a:hover {
+	font-weight: bold;
+	color: green;
+}
+a:active {
+	font-size: 24px;
+	color: blue;
+}
+
+.results {
+	font-family: 'Rambla:400', sans-serif;
+	font-size: 18px;
+	padding-left: 50px;
+}
+.results p {
+	font-size: 21px;
+	font-weight: bold;
+}
+.results li {
+	display: inline-block;
+}
+.date {
+	color: grey;
+}
+.position {
+	color: darkblue;
+	margin-left: 10px;
+	font-weight: bold;
+}
+.location {
+	color: grey;
+	margin-left: 10px;
+}
